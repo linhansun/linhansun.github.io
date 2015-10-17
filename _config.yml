@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: Your Name
   avatar: lhs.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Plant Biology Grad Student at Penn State."
+  email: lms6431@psu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: rookieslh
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: linhansun
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -53,7 +53,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: rookiesun
   flickr: #username
   codepen: #username
 
