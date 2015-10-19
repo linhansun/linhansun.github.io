@@ -44,7 +44,7 @@ PEG transformation
 
 - mutation maintained afrer regeneration; transmittable to progeny
 
-** Advantage of preassembled RGEN RNP delivery:**
+**Advantage of preassembled RGEN RNP delivery:**
 
 - no foreign DNA plasmid (bypassing regulation?)
 
