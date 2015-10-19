@@ -6,7 +6,7 @@ modified:
 excerpt: "Two papers trying to bypass using plasmid in genome editing of plants"
 tags: [literature]
 ---
-# Direct Delivery of Genome Editing Toolkits into Plant Cells
+
 
 ----------
 ### Direct delivery of CRISPR-Cas9 complex in plant cells
