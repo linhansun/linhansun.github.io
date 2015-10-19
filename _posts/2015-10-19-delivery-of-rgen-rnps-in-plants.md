@@ -14,6 +14,8 @@ tags: [literature]
 
 Woo, J. W. et al. **DNA-free genome editing in plants with preassembled CRISPR-Cas9 ribonucleoproteins**. Nat. Biotechnol. 10–13 (2015). doi:10.1038/nbt.3389
 
+![image](http://www.nature.com/polopoly_fs/7.30463.1445264877!/image/1.18590.jpg_gen/derivatives/landscape_630/1.18590.jpg)
+Photo Credit: [Je Wook Woo](http://www.nature.com/news/crispr-tweak-may-help-gene-edited-crops-bypass-biosafety-regulation-1.18590?WT.mc_id=TWT_NatureNews)
 
 
 - RNA-guided endonucleases (RGENs)
