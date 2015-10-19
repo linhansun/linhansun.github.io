@@ -4,13 +4,10 @@ title: "Delivery of RGEN RNPs in Plants"
 author: linhansun
 modified:
 excerpt: "Scientists are trying to bypass using plasmids in genome editing of plants"
-tags: [paper][technique][biotechnology]
+tags: [paper][biotechnology]
 ---
 
-
 # Delivery of RGEN RNPs in Plants
-
-
 
 ----------
 ### Direct delivery of CRISPR-Cas9 complex in plant cells
