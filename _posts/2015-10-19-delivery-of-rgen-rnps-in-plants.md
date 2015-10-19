@@ -59,7 +59,7 @@ Luo, S. et al. **Non-transgenic Plant Genome Editing Using Purified Sequence-Spe
 
 - I-SceI +Trex2 DNA: 7.7% mutagenesis
 
-** TALENs delivery **:
+**TALENs delivery**:
 
 - TALEN monomers: ALS2T1L/1R in tobacco
 
