@@ -9,7 +9,7 @@ image:
   credit: iniution
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/  
 ---
-## About Me
+
 
 I'm a first year graduate student in the Plant Biology Graduate Program at the Huck Institutes of the Life Sciences at the Pennsylvania State Universty, PA. Currently I'm working in Dr.Teh-hui Kao's lab studying self-incompatibility (SI) mechanism of *Petunia inflata* with biochemistry, molecular biology and genomics.
 
