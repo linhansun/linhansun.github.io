@@ -4,7 +4,7 @@ title: "Literature Notes on Ubiquitination in Self-incompatibilty"
 author: linhansun
 modified:
 excerpt: "Notes on two paper on ubiqutination and SI from my current lab"
-tags: [literature],[SI]
+tags: [literature,SI]
 ---
 
 ----------
