@@ -7,12 +7,7 @@ excerpt: "Notes on two paper on ubiqutination and SI from my current lab"
 tags: [literature][SI]
 ---
 
-
-
-
-
-
-
+----------
 Sun, P., Li, S., Lu, D., Williams, J. S. & Kao, T. **Pollen S-locus F-box proteins of Petunia involved in S-RNase-based self-incompatibility are themselves subject to ubiquitin-mediated degradation**. Plant J. n/a–n/a (2015). doi:10.1111/tpj.12880
 
 ### S2-SLF1/S3-SLF1/S2-SLF1(CTR) degradation in yeast via UPP
